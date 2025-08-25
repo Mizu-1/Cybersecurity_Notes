@@ -389,12 +389,14 @@
             "id": "a6d6124ccadd0b8e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "My Learning Notes/الامن السبراني/الخطة.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "الخطة"
             }
           },
           {
@@ -1441,7 +1443,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.51103591918945
+    "width": 255.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "0d8c0ac2dfb71b22",
@@ -1526,6 +1529,7 @@
   },
   "active": "a6d6124ccadd0b8e",
   "lastOpenFiles": [
+    "التداول/ملخصات.md",
     "My Learning Notes/الامن السبراني/الخطة.md",
     "My Learning Notes/README.md.md",
     "My Learning Notes/Python/الملخصات.md",
@@ -1541,7 +1545,6 @@
     "Untitled 1.canvas",
     "2025-07-25.md",
     "2025/اهداف السنة.md",
-    "التداول/ملخصات.md",
     "التداول/قصة التداول.md",
     "English/3-Listening.md",
     "الطريق الى الله/الواجبات.md",
