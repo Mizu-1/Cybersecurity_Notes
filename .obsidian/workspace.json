@@ -8,16 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6e0a7df401634b9",
+            "id": "401454f5f7436bc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "My Learning Notes/README.md.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "71abd32440106cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Learning Notes/الامن السبراني/الخطة.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "الخطة"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.51103591918945
+    "width": 204.51103591918945
   },
   "right": {
     "id": "0d8c0ac2dfb71b22",
@@ -90,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "التداول/ملخصات.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ملخصات"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -109,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -137,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -175,8 +196,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6e0a7df401634b9",
+  "active": "71abd32440106cce",
   "lastOpenFiles": [
+    "My Learning Notes/README.md.md",
+    "conflict-files-obsidian-git.md",
+    "My Learning Notes/الامن السبراني/الخطة.md",
+    "الامن السبراني/الخطة.md",
+    "My Learning Notes/الامن السبراني/دورة القرصنة الاخلاقية/Untitled.md",
+    "ما قبل البرمجة/Class 9.md",
+    "ما قبل البرمجة/Class 8.md",
+    "ما قبل البرمجة/Class 7.md",
+    "ما قبل البرمجة/Class 6.md",
+    "ما قبل البرمجة/Class 5.md",
+    "ما قبل البرمجة/Class 3.md",
+    "ما قبل البرمجة/Class 2.md",
+    "ما قبل البرمجة/Class 4.md",
+    "ما قبل البرمجة/Class 10.md",
+    "ما قبل البرمجة/Class 1.md",
+    "ما قبل البرمجة",
+    "الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 4.md",
+    "الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 3.md",
+    "الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 2.md",
+    "الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 1.md",
+    "الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي",
+    "الامن السبراني",
+    "README.md.md",
+    "My Learning Notes/Python/Class 2.md",
+    "My Learning Notes/Python/Class 3.md",
+    "My Learning Notes/Python/Class 1.md",
+    "My Learning Notes/Python",
     "obsidian-git-2.35.0/obsidian-git/styles.css",
     "obsidian-git-2.35.0/obsidian-git/manifest.json",
     "obsidian-git-2.35.0/obsidian-git/main.js",
@@ -185,44 +233,17 @@
     "English 1/6-Daily Lassons.md",
     "English 1/4-Speaking.md",
     "English 1/5-Word.md",
-    "English 1/3-Listening.md",
-    "English 1/2-Grammar.md",
-    "English 1/1-The Plan.md",
     "English 1",
-    "English/3-Listening.md",
-    "English/2-Grammar.md",
-    "English/1-The Plan.md",
-    "البرمجة/C++/الخطة.md",
-    "البرمجة/C++/الملخصات.md",
-    "التداول/ملخصات.md",
-    "My Learning Notes/الامن السبراني/الخطة.md",
-    "My Learning Notes/README.md.md",
-    "My Learning Notes/Python/الملخصات.md",
-    "My Learning Notes/Python/Class 1.md",
-    "My Learning Notes/Python/Class 2.md",
-    "My Learning Notes/Python/Class 3.md",
-    "My-Learning-Notes",
-    "Untitled",
-    "My Learning Notes",
     "البرمجة/الاساسيات.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "2025-07-25.md",
-    "2025/اهداف السنة.md",
-    "التداول/قصة التداول.md",
-    "الطريق الى الله/الواجبات.md",
     "ملاحظات/Pasted image 20250113192551.png",
     "ملاحظات/Pasted image 20250111154652.png",
     "ملاحظات/Pasted image 20250111152353.png",
     "ملاحظات/Pasted image 20250111151905.png",
-    "ملاحظات/نطاق المتغير (Scope of a Variable).md",
-    "ملاحظات/معاني الرموز.md",
-    "ملاحظات/المتغيرات المحلية والعالمية (Local and Global Variables).md",
-    "English",
     "code.png",
     "code 1.png",
     "code 2.png",
-    "My Learning Notes/الامن السبراني",
     "الجامعة/الترم الثاني 2025.canvas",
     "اللغات/اللغة الانجليزية.canvas",
     "حفط القران.canvas",
