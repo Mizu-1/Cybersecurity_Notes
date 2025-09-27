@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d7dc7fbc2fdf08e",
+        "id": "f0cfd6ed63509535",
         "type": "tabs",
         "children": [
           {
-            "id": "7a42d9f4177a59fe",
+            "id": "73c0ead002040eed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "My Learning Notes/README.md.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README.md"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.51103591918945
+    "width": 200
   },
   "right": {
     "id": "0d8c0ac2dfb71b22",
@@ -162,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,34 +181,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a42d9f4177a59fe",
+  "active": "73c0ead002040eed",
   "lastOpenFiles": [
-    "My Learning Notes/README.md.md",
-    "My Learning Notes/Python/README.md.md",
-    "My Learning Notes/الامن السبراني/ReadMe.md.md",
-    "My Learning Notes/الامن السبراني/دورة القرصنة الاخلاقية/README.md.md",
-    "My Learning Notes/الامن السبراني/دورة القرصنة الاخلاقية/Class 1.md",
-    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/README.md.md",
-    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 4.md",
-    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 3.md",
-    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 2.md",
-    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 1.md",
-    "My Learning Notes/ما قبل البرمجة/README.md.md",
-    "My Learning Notes/Python/Class 3.md",
-    "My Learning Notes/Python/Class 2.md",
-    "My Learning Notes/Python/Class 1.md",
-    "My Learning Notes/ما قبل البرمجة/Class 1.md",
-    "conflict-files-obsidian-git.md",
-    "الامن السبراني/الخطة.md",
-    "My Learning Notes/الامن السبراني/دورة القرصنة الاخلاقية/Untitled.md",
+    "ما قبل البرمجة/Class 3.md",
+    "ما قبل البرمجة/Class 2.md",
+    "ما قبل البرمجة/Class 1.md",
+    "ما قبل البرمجة/README.md.md",
+    "ما قبل البرمجة/Class 10.md",
     "ما قبل البرمجة/Class 9.md",
     "ما قبل البرمجة/Class 8.md",
     "ما قبل البرمجة/Class 7.md",
     "ما قبل البرمجة/Class 6.md",
     "ما قبل البرمجة/Class 5.md",
-    "ما قبل البرمجة/Class 3.md",
-    "ما قبل البرمجة/Class 2.md",
     "ما قبل البرمجة/Class 4.md",
+    "My Learning Notes/README.md.md",
+    "My Learning Notes/Python/Class 3.md",
+    "My Learning Notes/Python/Class 1.md",
+    "My Learning Notes/Python/Class 2.md",
+    "My Learning Notes/الامن السبراني/دورة القرصنة الاخلاقية/Class 1.md",
+    "My Learning Notes/الامن السبراني/دورة القرصنة الاخلاقية/README.md.md",
+    "My Learning Notes/Python/README.md.md",
+    "My Learning Notes/الامن السبراني/ReadMe.md.md",
+    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/README.md.md",
+    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 4.md",
+    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 3.md",
+    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 2.md",
+    "My Learning Notes/الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي/Class 1.md",
+    "conflict-files-obsidian-git.md",
+    "الامن السبراني/الخطة.md",
     "ما قبل البرمجة",
     "الامن السبراني/دورة 6 ساعات - تعلم الهكر الاخلاقي",
     "الامن السبراني",
