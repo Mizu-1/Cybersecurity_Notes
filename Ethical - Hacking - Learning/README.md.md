@@ -2,7 +2,9 @@
 
 ### المواضيع التي ادرسها :
 
-
+- Linux Basics
+- Networking Basics
+- 
 ### الدورة التي ادرسها :
 
 [دورة الاختراق الأخلاقي من الصفر كامله | Ethical Hacking Course for Beginners](https://www.youtube.com/watch?v=IyxgtWKtzQw&list=PLMuAdKgHarVrcZCqzJFdNlTiKz66U19Xk)
