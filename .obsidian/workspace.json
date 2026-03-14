@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.50260543823242,
-    "collapsed": true
+    "width": 232.50260543823242
   },
   "right": {
     "id": "aeb3230836d52cad",
@@ -198,9 +197,9 @@
   },
   "active": "0c91e36ba5ae081e",
   "lastOpenFiles": [
-    "Ethical - Hacking - Learning/01-Linux-Basics/README.md",
-    "Ethical - Hacking - Learning/02-Networking-Basics/README.md",
     "بدون عنوان.md",
+    "Ethical - Hacking - Learning/02-Networking-Basics/README.md",
+    "Ethical - Hacking - Learning/01-Linux-Basics/README.md",
     "Ethical - Hacking - Learning/README.md",
     "Untitled.base",
     "Ethical - Hacking - Learning/Tools",
