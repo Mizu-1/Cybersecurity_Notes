@@ -8,6 +8,8 @@
 ### الدورة التي ادرسها :
 
 [دورة الاختراق الأخلاقي من الصفر كامله | Ethical Hacking Course for Beginners](https://www.youtube.com/watch?v=IyxgtWKtzQw&list=PLMuAdKgHarVrcZCqzJFdNlTiKz66U19Xk)
+
+[دورة الشبكات من الصفر كامله | Networks Courses For Beginners](https://www.youtube.com/watch?v=txep5nnVGOc&list=PLMuAdKgHarVpSZOpYzluk3fx45fctvRM1)
 ### الادوات التي اتعلمها :
 
 

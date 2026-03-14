@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical - Hacking - Learning/01-Linux-Basics/README.md",
+                "file": "Ethical - Hacking - Learning/02-Networking-Basics/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "مستكشف الملفات"
             }
           },
           {
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.50260543823242
+    "width": 232.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "aeb3230836d52cad",
@@ -185,22 +186,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:إفتح الانتقال السريع": false,
+      "graph:إفتح العرض البياني": false,
+      "canvas:إنشاء لوحة بصرية جديدة": false,
+      "daily-notes:إفتح ملاحظة اليوم": false,
+      "templates:أدرج قالب": false,
+      "command-palette:إفتح لوحة الأوامر": false,
+      "bases:إنشاء قاعدة جديدة": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "0c91e36ba5ae081e",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Ethical - Hacking - Learning/README.md",
     "Ethical - Hacking - Learning/01-Linux-Basics/README.md",
     "Ethical - Hacking - Learning/02-Networking-Basics/README.md",
+    "بدون عنوان.md",
+    "Ethical - Hacking - Learning/README.md",
+    "Untitled.base",
     "Ethical - Hacking - Learning/Tools",
     "Ethical - Hacking - Learning/Lab",
     "Untitled.canvas",
