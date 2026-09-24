@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "837449f729e03199",
+        "id": "7796d647b73da30d",
         "type": "tabs",
         "children": [
           {
-            "id": "0c91e36ba5ae081e",
+            "id": "7506360fe83d4468",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical - Hacking - Learning/02-Networking-Basics/README.md",
+                "file": "Ethical - Hacking - Learning/2-Network/1-Network Devices - Hosts, IP Addresses, Networks/READMe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "READMe"
+            }
+          },
+          {
+            "id": "dce1293e53c686db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical - Hacking - Learning/2-Network/2-Network Devices - Hub, Bridge, Switch, Router/READMe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "READMe"
+            }
+          },
+          {
+            "id": "6601c5e56f066095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical - Hacking - Learning/2-Network/3-OSI Model/READMe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "READMe"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "مستكشف الملفات"
@@ -78,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.50260543823242
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aeb3230836d52cad",
@@ -180,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,16 +226,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c91e36ba5ae081e",
+  "active": "6601c5e56f066095",
   "lastOpenFiles": [
-    "بدون عنوان.md",
-    "Ethical - Hacking - Learning/02-Networking-Basics/README.md",
-    "Ethical - Hacking - Learning/01-Linux-Basics/README.md",
+    "Ethical - Hacking - Learning/2-Network/1-Network Devices - Hosts, IP Addresses, Networks/READMe.md",
+    "Ethical - Hacking - Learning/2-Network/3-OSI Model/READMe.md",
+    "Ethical - Hacking - Learning/2-Network/2-Network Devices - Hub, Bridge, Switch, Router/READMe.md",
+    "Ethical - Hacking - Learning/2-Network/3-OSI Model",
+    "Ethical - Hacking - Learning/1-Fundamentals/06-Bash Scripting/README.md",
+    "Ethical - Hacking - Learning/2-Network/2-Network Devices - Hub, Bridge, Switch, Router",
+    "Ethical - Hacking - Learning/2-Network/1-Network Devices - Hosts, IP Addresses, Networks",
+    "Ethical - Hacking - Learning/1-Fundamentals/01-Linux-Basics/README.md",
+    "بدون عنوان.canvas",
+    "٢٠٢٦-٠٩-٢٢.md",
+    "Ethical - Hacking - Learning/1-Fundamentals/05-Installing and Updating Tools/README.md",
+    "Ethical - Hacking - Learning/1-Fundamentals/04-Starting And Stopping Services/README.md",
+    "Ethical - Hacking - Learning/1-Fundamentals/03-Common Network Commands/README.md",
+    "Ethical - Hacking - Learning/1-Fundamentals/02-Networking-Basics/README.md",
+    "Practical Help Desk/01-Course Introduction/READMe.md",
+    "Ethical - Hacking - Learning/9-Active Directory",
+    "Ethical - Hacking - Learning/8-Practical Labs",
+    "Ethical - Hacking - Learning/7- Buffer Overflow",
+    "Ethical - Hacking - Learning/6-Exploitation",
+    "Ethical - Hacking - Learning/5-Scanning & Enumeration",
+    "Ethical - Hacking - Learning/4-Ethical Hacking Fundamentals",
+    "Ethical - Hacking - Learning/3-Python",
     "Ethical - Hacking - Learning/README.md",
-    "Untitled.base",
-    "Ethical - Hacking - Learning/Tools",
-    "Ethical - Hacking - Learning/Lab",
-    "Untitled.canvas",
-    "Ethical - Hacking - Learning/00-README.me"
+    "Untitled.canvas"
   ]
 }

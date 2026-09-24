@@ -144,3 +144,8 @@ rwx         rwx            rwx
 
 > [!NOTE] grep
 > البحث لنصوص محددة داخل ملف نصي
+
+
+---
+## Viewing, Creating, & Editing Files
+
