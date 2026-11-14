@@ -38,6 +38,8 @@ ipV4 هذا العنوان الذي يستخدم الى الان بينما ipV6
 
 ومعنى MAC ( Media Access Control ) 
 
+ويتكون من 48 Bits ويتم تمثيلها في 12 Hex Digits
+
 طريقة اظهار عنوان الماك عن طريق كتابة الامر ifconfig وفي الويندوز ipconfig
 
 لمعرفة عنوان الماك يكتب عند ether او Physical Address
